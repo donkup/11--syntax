@@ -1,4 +1,5 @@
-function sandauga(a, b){
+const sandauga = (a, b) => {
     return a * b;
 }
-export {sandauga}
+
+export { sandauga }
